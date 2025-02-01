@@ -1,7 +1,7 @@
 ### 자바 병렬 프로그래밍(원제: Java Concurrency in Practice) 스터디
 
 [01장 개요](https://github.com/Ghosttrio/java-concurrency-in-practice-study/blob/master/1장.md)    
-02장    
+[02장 스레드 안정성](https://github.com/Ghosttrio/java-concurrency-in-practice-study/blob/master/2장.md)    
 03장    
 04장    
 05장    
