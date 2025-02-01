@@ -1,4 +1,4 @@
-### 자바 병렬 프로그래밍(원제, Java Concurrency in Practice) 스터디
+### 자바 병렬 프로그래밍(원제: Java Concurrency in Practice) 스터디
 
 01장 개요
 02장
